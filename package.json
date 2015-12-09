@@ -2,7 +2,7 @@
   "author": "Neylor Ohmaly",
   "main": "src/nsPopover.js",
   "name": "nsPopover",
-  "version": "0.6.8",
+  "version": "0.6.9",
   "homepage": "http://nohros.com/nsPopover",
   "licenses": {
     "type": "MIT",
@@ -11,7 +11,7 @@
   "bugs": "https://github.com/nohros/nsPopover/issues",
   "repository": {
     "type": "git",
-    "url": "git@github.com:nohros/nsPopover.git"
+    "url": "git@github.com:udpcloud/nsPopover.git"
   },
   "dependencies": {},
   "devDependencies": {
